@@ -16,6 +16,6 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 I am editing this file to work more efficient
 
-This test will invoke the build in jenkins.
+This test will invoke the build in jenkins
 
-this step should trigger build job in jenkins.
+This will trigger build job in jenkins, since we updated this file.
